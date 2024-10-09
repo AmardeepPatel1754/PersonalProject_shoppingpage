@@ -4,7 +4,7 @@ export const products = [
       name: "Smartphone",
       price: 299,
       category: "Electronics",
-      image: "/src/assets/smartphone.jpg",
+      image: "/smartphone.jpg",
       rating: 4.5,
     },
     {
@@ -12,7 +12,7 @@ export const products = [
       name: "Headphones",
       price: 99,
       category: "Accessories",
-      image: "src/assets/headphones.jpg",
+      image: "/headphones.jpg",
       rating: 4.0,
     },
     {
@@ -20,7 +20,7 @@ export const products = [
       name: "Laptop",
       price: 999,
       category: "Electronics",
-      image: "src/assets/laptop.jpg",
+      image: "/laptop.jpg",
       rating: 4.7,
     },
     {
@@ -28,7 +28,7 @@ export const products = [
       name: "Shoes",
       price: 49,
       category: "Fashion",
-      image: "src/assets/shoes.jpg",
+      image: "/shoes.jpg",
       rating: 4.2,
     },
     {
@@ -36,7 +36,7 @@ export const products = [
       name: "T-Shirt",
       price: 19,
       category: "Fashion",
-      image: "src/assets/tshirt.jpg",
+      image: "/tshirt.jpg",
       rating: 4.3,
     },
     {
@@ -44,7 +44,7 @@ export const products = [
       name: "Watch",
       price: 199,
       category: "Accessories",
-      image: "src/assets/watch.jpg",
+      image: "/watch.jpg",
       rating: 4.6,
     },
     {
@@ -52,7 +52,7 @@ export const products = [
       name: "Tablet",
       price: 499,
       category: "Electronics",
-      image: "src/assets/tablet.jpg",
+      image: "/tablet.jpg",
       rating: 4.4,
     },
     {
@@ -60,7 +60,7 @@ export const products = [
       name: "Jacket",
       price: 89,
       category: "Fashion",
-      image: "src/assets/jacket.jpg",
+      image: "/jacket.jpg",
       rating: 4.5,
     },
   ];
